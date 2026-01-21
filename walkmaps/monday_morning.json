@@ -1,0 +1,13 @@
+{
+  "title": "Monday Morning",
+  "bpm": 120,
+  "difficulty": "Normal",
+
+  "steps": [
+    { "time": 1000, "action": "left" },
+    { "time": 2000, "action": "right" },
+    { "time": 3000, "action": "jump" },
+    { "time": 4200, "action": "npc" },
+    { "time": 5200, "action": "left" }
+  ]
+}
